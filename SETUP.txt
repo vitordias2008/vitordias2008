@@ -1,0 +1,31 @@
+COMO USAR
+
+1. Crie ou abra o repositório de perfil do GitHub.
+   O nome do repositório deve ser exatamente igual ao seu usuário do GitHub.
+
+2. Copie o conteúdo desta pasta para a raiz do repositório:
+   - README.md
+   - pasta assets/
+
+3. Faça commit e push.
+
+ESTRUTURA
+
+README.md
+assets/
+├── banner.gif
+├── banner-static.png
+└── frames/
+    ├── 01-initializing.png
+    ├── 02-stack.png
+    ├── 03-sptech.png
+    └── 04-building.png
+
+OBSERVAÇÃO
+
+O README já está configurado para usar:
+GitHub: vitordias2008
+LinkedIn: vitor-mori-449a202b5
+
+Se seu usuário do GitHub for diferente, altere "vitordias2008"
+nas duas URLs da seção "stats" do README.md.
